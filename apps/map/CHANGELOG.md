@@ -1,5 +1,17 @@
 # Changelog
 
+## [7.12.0](https://github.com/F3-Nation/f3-nation/compare/map@7.11.0...map@7.12.0) (2026-11-24)
+
+
+### Features
+
+* **map:** add robots.ts and sitemap.ts ([#1660](https://github.com/F3-Nation/f3-nation/issues/1660)) ([2cffc9c](https://github.com/F3-Nation/f3-nation/commit/2cffc9cfb2e7683a7f2ccb820984af9294b34c33))
+
+
+### Bug Fixes
+
+* **map:** stop shared-location AO rows borrowing another AO's logo ([#1577](https://github.com/F3-Nation/f3-nation/issues/1577)) ([18f2708](https://github.com/F3-Nation/f3-nation/commit/18f2708129c213687ef06e73a68cd798c1f7eae0))
+
 ## [7.11.0](https://github.com/F3-Nation/f3-nation/compare/map@7.10.0...map@7.11.0) (2026-11-24)
 
 

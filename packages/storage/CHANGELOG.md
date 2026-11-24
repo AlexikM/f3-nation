@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.3](https://github.com/F3-Nation/f3-nation/compare/pkg-storage@0.2.2...pkg-storage@0.2.3) (2026-11-24)
+
+
+### Bug Fixes
+
+* **storage:** update @google-cloud/storage to v9 and pass the GCS project ID ([#1783](https://github.com/F3-Nation/f3-nation/issues/1783)) ([9ad57fc](https://github.com/F3-Nation/f3-nation/commit/9ad57fc3ff5f813ae20a043e20a16df3530b037c))
+
 ## [0.2.2](https://github.com/F3-Nation/f3-nation/compare/pkg-storage@0.2.1...pkg-storage@0.2.2) (2026-07-08)
 
 

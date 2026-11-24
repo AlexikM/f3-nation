@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.4.3](https://github.com/F3-Nation/f3-nation/compare/me@2.4.2...me@2.4.3) (2026-11-24)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @acme/storage bumped to 0.2.3
+
 ## [2.4.2](https://github.com/F3-Nation/f3-nation/compare/me@2.4.1...me@2.4.2) (2026-11-24)
 
 
